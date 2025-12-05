@@ -30,7 +30,7 @@ JavaScript (Vanilla JS) – Animations & interactions
 
 👨‍💻 Developer
 
-Marlon W
+Marlon W.
 Web Developer — WordPress, Shopify & Frontend Development
 
 If you want a website like this for your business, feel free to reach out.
